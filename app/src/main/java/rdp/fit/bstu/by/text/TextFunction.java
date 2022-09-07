@@ -1,6 +1,6 @@
 package rdp.fit.bstu.by.text;
 
-public class textFP {
+public class TextFunction {
     public String getValue(){
         return "Hello from first project";
     }
